@@ -1,0 +1,3 @@
+from pandas import read_csv
+df1 = read_csv("c:\temp\2013.08.07.csv",";")
+
